@@ -1,0 +1,68 @@
+{// 引入标签库 }
+<tagLib name="html" />
+<include file="Public:header" />
+<load href='__TMPL__Common/js/conf.js' />
+<script type="text/javascript" src="__ROOT__/public/region.js"></script>
+<load href='__TMPL__Common/js/user_edit.js' />
+<script type="text/javascript" src="__TMPL__Common/js/calendar/calendar.php?lang=zh-cn" ></script>
+<load href='__TMPL__Common/js/calendar/calendar.css' />
+<load href='__TMPL__Common/js/calendar/calendar.js' />
+<div class="main">
+<div class="main_title">{%EDIT} <a href="{:u("Familys/view")}family_id={$family_id}&family_name={$family_name}&begin_time={$_REQUEST['begin_time']}&end_time={$_REQUEST['end_time']}" class="back_list">{%BACK_LIST}</a>
+&nbsp;&nbsp;| &nbsp;&nbsp; 
+<a href="{:u('Familys/bqzbjlview_export')}id={$id}&family_name={$family_name}&nick_name={$user_nick_name}&begin_time={$_REQUEST['begin_time']}&end_time={$_REQUEST['end_time']}&user_mobile={$_REQUEST['user_mobile']}">
+导出Excel</a>
+</div>
+<div class="blank5"></div>
+<div class="main_title_list"><div class="list-line-ico"></div>家族【<font color="red">{$family_name}</font>】成员【<font color="red">{$user_nick_name}</font>】直播明细</div>
+<table cellspacing="0" cellpadding="0" class="dataTable" id="dataTable">
+	<tbody>
+		<tr>
+			<td class="topTd" colspan="3">&nbsp; </td>
+			</tr>
+			<tr class="row">
+				<th>手机号</th>
+				<th>本期直播时长</th>
+				<th>本期魔力值增量</th>
+				<th>本期最高在线人数</th>
+				<th>本期有效天数</th>
+				<th>平均日增魔力</th>
+				<th>平均日增粉丝</th>
+				</tr>
+		
+				<tr class="row">
+					<td>{$user_mobile}</td>
+					<td>{$total['live_day_time_total']}</td>
+					<td>{$total['live_day_ticket_total']}</td>
+					<td>{$total['watch_number_max']}</td>
+					<td>{$total['valid_days_total']}</td>
+					<td>{$total['live_day_ticket_total_pinjun']}</td>
+					<td>{$total['live_day_fans_pinjun']}</td>
+					
+				</tr>
+			
+				<tr><td class="bottomTd" colspan="3"> &nbsp;</td></tr>
+			</tbody>
+		</table>
+<div class="search_row">
+	<form name="search" action="__APP__" method="get">
+		创建时间：<span><input type="text" class="textbox" name="begin_time" id="begin_time" value="{:trim($_REQUEST['begin_time'])}" onfocus="return showCalendar('begin_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_begin_time');" />
+		<input type="button" class="button" id="btn_begin_time" value="{%SELECT_TIME}" onclick="return showCalendar('begin_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_begin_time');" /></span>
+		-
+		<span><input type="text" class="textbox" name="end_time" id="end_time" value="{:trim($_REQUEST['end_time'])}" onfocus="return showCalendar('end_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_end_time');" /><input type="button" class="button" id="btn_end_time" value="{%SELECT_TIME}" onclick="return showCalendar('end_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_end_time');" /></span>
+		<input type="hidden" value="{$id}" name="id" /><input type="hidden" value="{$family_name}" name="family_name" />
+		<input type="hidden" value="Familys" name="m" /><input type="hidden" value="index" name="a" /><input type="hidden" value="view" name="a" /><input type="submit" class="button" value="{%SEARCH}" />
+	</form>
+</div>
+<div class="blank5"></div>
+<html:list
+	id="dataTable"
+	style="dataTable"
+	name="list"
+	
+	checkbox="true"
+	datasource="list"
+	show="live_day:日期|100px,live_day_time:日直播时长(小时)|15%,live_day_ticket:日魔力值增量|15%,live_day_fans:日粉丝增量,live_day_watch_number:日最高在线人数,valid_days:是否有效天|20%"
+	 />
+<div class="page">{$page}</div>
+<include file="Public:footer" />

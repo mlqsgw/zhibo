@@ -1,0 +1,55 @@
+{// 引入标签库 }
+<tagLib name="html" />
+<include file="Public:header" />
+<load href='__TMPL__Common/js/conf.js' />
+<script type="text/javascript" src="__ROOT__/public/region.js"></script>
+<load href='__TMPL__Common/js/user_edit.js' />
+<script type="text/javascript" src="__TMPL__Common/js/calendar/calendar.php?lang=zh-cn" ></script>
+<load href='__TMPL__Common/js/calendar/calendar.css' />
+<load href='__TMPL__Common/js/calendar/calendar.js' />
+<div class="main">
+<div class="main_title">{%EDIT} <a href="{:u("Familys/index")}begin_time={$_REQUEST['begin_time']}&end_time={$_REQUEST['end_time']}" class="back_list">{%BACK_LIST}</a>
+&nbsp;&nbsp;| &nbsp;&nbsp; 
+<a href="{:u('Familys/view_export')}family_id={$family_id}&family_name={$family_name}&user_id={$_REQUEST['user_id']}&nick_name={$_REQUEST['nick_name']}&begin_time={$_REQUEST['begin_time']}&end_time={$_REQUEST['end_time']}">
+导出Excel</a>
+</div>
+<div class="blank5"></div>
+<PHP>
+	function bqzbjl($id){
+	       return "<a href=\"javascript:views('".$id."')\">本期直播记录</a>";
+	}
+</PHP>
+<script type="text/javascript">
+	function views(id){
+		var family_id = $("#family_id").val();
+		var family_name = $("#family_name").val();
+		var begin_time = $("#begin_time").val();
+		var end_time = $("#end_time").val();
+		location.href = ROOT+"?"+VAR_MODULE+"="+MODULE_NAME+"&"+VAR_ACTION+"=bqzbjlview&id="+id+"&family_id="+family_id+"&family_name="+family_name+"&begin_time="+begin_time+"&end_time="+end_time;
+	}
+</script>
+<div class="main_title_list"><div class="list-line-ico"></div>家族【<font color="red">{$family_name}</font>】成员列表</div>
+<div class="search_row">
+	<form name="search" action="__APP__" method="get">
+		用户ID：<input type="text" class="textbox" name="user_id" value="{:trim($_REQUEST['user_id'])}" />
+		用户昵称：<input type="text" class="textbox" name="nick_name" value="{:trim($_REQUEST['nick_name'])}" />
+		创建时间：<span><input type="text" class="textbox" name="begin_time" id="begin_time" value="{:trim($_REQUEST['begin_time'])}" onfocus="return showCalendar('begin_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_begin_time');" />
+		<input type="button" class="button" id="btn_begin_time" value="{%SELECT_TIME}" onclick="return showCalendar('begin_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_begin_time');" /></span>
+		-
+		<span><input type="text" class="textbox" name="end_time" id="end_time" value="{:trim($_REQUEST['end_time'])}" onfocus="return showCalendar('end_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_end_time');" /><input type="button" class="button" id="btn_end_time" value="{%SELECT_TIME}" onclick="return showCalendar('end_time', '%Y-%m-%d %H:%M:%S', false, false, 'btn_end_time');" /></span>
+		<input type="hidden" value="{$family_id}" id="family_id" name="family_id" /><input type="hidden" value="{$family_name}" id="family_name" name="family_name" />
+		<input type="hidden" value="Familys" name="m" /><input type="hidden" value="index" name="a" /><input type="hidden" value="view" name="a" /><input type="submit" class="button" value="{%SEARCH}" />
+	</form>
+</div>
+<div class="blank5"></div>
+<html:list
+	id="dataTable"
+	style="dataTable"
+	name="log"
+	action="true"
+	checkbox="true"
+	datasource="list"
+	show="id:用户ID|50px,nick_name:用户昵称|20%,total_ticket:新增魔力值|15%,valid_days:有效天数|15%,create_time|to_date:加入时间|20%"
+	actionlist="id|bqzbjl" />
+<div class="page">{$page}</div>
+<include file="Public:footer" />

@@ -1,0 +1,3406 @@
+执行日期：2017-07-04-00：03：20
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2907',
+      'notice_sn' => '20170703223947853',
+      'create_time' => '1499063987',
+      'pay_time' => '1499063999',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004230292021448',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：03：45
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2933',
+      'notice_sn' => '20170703235532135',
+      'create_time' => '1499068532',
+      'pay_time' => '1499068664',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004230292119639',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：04：25
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; oppo r7s build/ktu84p)',
+  4 => 'ctl=index,act=new_video:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x82101730: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:744 0x76d39894:0x00000000)',
+)
+
+执行日期：2017-07-04-00：05：10
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2934',
+      'notice_sn' => '20170704000003526',
+      'create_time' => '1499068803',
+      'pay_time' => '1499068809',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070421001004230292095408',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：05：39
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.2.2; 2014011 miui/jhfcnbl28.0)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-00：05：40
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.2.2; 2014011 miui/jhfcnbl28.0)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-00：05：41
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.2.2; 2014011 miui/jhfcnbl28.0)',
+  4 => 'ctl=user,act=state_change:javax.net.ssl.SSLException: SSL handshake aborted: ssl=0x651e0728: I/O error during system call, Connection reset by peer',
+)
+
+执行日期：2017-07-04-00：07：27
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo y55a build/mmb29m)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-00：08：01
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; mi max miui/v8.5.1.0.nbccned)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-00：08：47
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; oppo r9 plustm a build/lmy47v)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-00：08：50
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; oppo r9 plustm a build/lmy47v)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-00：09：19
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2839',
+      'notice_sn' => '20170703204512468',
+      'create_time' => '1499057112',
+      'pay_time' => '1499057118',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61242884',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004580245964219',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：09：43
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2914',
+      'notice_sn' => '20170703224539912',
+      'create_time' => '1499064339',
+      'pay_time' => '1499064347',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234666',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '100.00',
+      'outer_notice_sn' => '2017070321001004590213235170',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '2',
+      'recharge_name' => '金币10000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '10000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：11：18
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2696',
+      'notice_sn' => '20170702234727161',
+      'create_time' => '1498981647',
+      'pay_time' => '1498981658',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61243333',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070221001004520239294326',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-02',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：12：24
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0.2; vivo y31a build/lrx22g)',
+  4 => 'ctl=app,act=init:javax.net.ssl.SSLHandshakeException: Handshake failed',
+)
+
+执行日期：2017-07-04-00：13：36
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0.2; vivo y31a build/lrx22g)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-00：13：38
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0.2; vivo y31a build/lrx22g)',
+  4 => 'ctl=video,act=get_video2:javax.net.ssl.SSLHandshakeException: Handshake failed',
+)
+
+执行日期：2017-07-04-00：16：57
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo x9 build/mmb29m)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-00：18：25
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo x9 build/mmb29m)',
+  4 => 'ctl=user,act=state_change:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-00：19：40
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.2.2.0.mbfcndl)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-00：21：42
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.2.2.0.mbfcndl)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-00：23：40
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; hm 2a miui/v8.2.1.0.khlcndl)',
+  4 => 'ctl=video,act=like:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x664d9b20: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:744 0x5d682d44:0x00000000)',
+)
+
+执行日期：2017-07-04-00：23：40
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; hm 2a miui/v8.2.1.0.khlcndl)',
+  4 => 'ctl=app,act=prop:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x6a2414f0: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:744 0x5d682d44:0x00000000)',
+)
+
+执行日期：2017-07-04-00：23：56
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.2.2.0.mbfcndl)',
+  4 => 'ctl=user,act=state_change:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-00：24：02
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.2.2.0.mbfcndl)',
+  4 => 'ctl=app,act=init:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-00：24：04
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.2.2.0.mbfcndl)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-00：24：38
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2934',
+      'notice_sn' => '20170704000003526',
+      'create_time' => '1499068803',
+      'pay_time' => '1499068809',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070421001004230292095408',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：26：35
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.2.2.0.mbfcndl)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-00：30：03
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; che1-cl20 build/che1-cl20)',
+  4 => 'ctl=user,act=my_follow:java.io.EOFException',
+)
+
+执行日期：2017-07-04-00：34：20
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2926',
+      'notice_sn' => '20170703231019519',
+      'create_time' => '1499065819',
+      'pay_time' => '1499065828',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234854',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004200204596349',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：35：42
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2927',
+      'notice_sn' => '20170703231059738',
+      'create_time' => '1499065859',
+      'pay_time' => '1499065866',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004230292061143',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：37：31
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; m1 metal build/lmy47i)',
+  4 => 'ctl=login,act=wx_login:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-00：42：32
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0.2; redmi note 3 miui/v8.2.1.0.lhncndl)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-00：43：07
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2732',
+      'notice_sn' => '20170703151618881',
+      'create_time' => '1499037378',
+      'pay_time' => '1499037571',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61236210',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004340208909032',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：44：08
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; oppo r9tm build/lmy47i)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-00：53：33
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2733',
+      'notice_sn' => '20170703152936993',
+      'create_time' => '1499038176',
+      'pay_time' => '1499038184',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234666',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '50.00',
+      'outer_notice_sn' => '2017070321001004590212406595',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '3',
+      'recharge_name' => '金币5000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '5000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-00：56：11
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2858',
+      'notice_sn' => '20170703211533188',
+      'create_time' => '1499058933',
+      'pay_time' => '1499059945',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61240717',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '50.00',
+      'outer_notice_sn' => '2017070321001004680209502658',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '3',
+      'recharge_name' => '金币5000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '5000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：01：18
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.2.2.0.mbfcndl)',
+  4 => 'ctl=index,act=new_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-01：02：35
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; x800+ build/bexcnfn5902605111s)',
+  4 => 'ctl=user,act=state_change:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-01：03：12
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; edi-al10 build/huaweiedison-al10)',
+  4 => 'ctl=index,act=focus_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-01：16：32
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.5.2.0.mbfcned)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-01：18：18
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2870',
+      'notice_sn' => '20170703215308895',
+      'create_time' => '1499061188',
+      'pay_time' => '1499061195',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61236135',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '50.00',
+      'outer_notice_sn' => '2017070321001004610287649615',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '3',
+      'recharge_name' => '金币5000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '5000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：20：25
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2873',
+      'notice_sn' => '20170703215638191',
+      'create_time' => '1499061398',
+      'pay_time' => '1499061408',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004230292009271',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：24：47
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2934',
+      'notice_sn' => '20170704000003526',
+      'create_time' => '1499068803',
+      'pay_time' => '1499068809',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070421001004230292095408',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：26：05
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：26：08
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：32：49
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2886',
+      'notice_sn' => '20170703220849298',
+      'create_time' => '1499062129',
+      'pay_time' => '1499062139',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004230292035211',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：34：03
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.1; max build/mra58k)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-01：38：38
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; vivo x6plus l build/lmy47i)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-01：41：20
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; mi 5 miui/v8.5.2.0.naacned)',
+  4 => 'ctl=video,act=like:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=5)',
+)
+
+执行日期：2017-07-04-01：41：27
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：42：52
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2888',
+      'notice_sn' => '20170703221727495',
+      'create_time' => '1499062647',
+      'pay_time' => '1499062656',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234666',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '30.00',
+      'outer_notice_sn' => '2017070321001004590213167700',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '4',
+      'recharge_name' => '金币3000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '3000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：44：45
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：49：49
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2891',
+      'notice_sn' => '20170703222424187',
+      'create_time' => '1499063064',
+      'pay_time' => '1499063083',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61236135',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004610287720476',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：49：50
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2893',
+      'notice_sn' => '20170703222448796',
+      'create_time' => '1499063088',
+      'pay_time' => '1499063111',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61236135',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004610287761602',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-01：54：57
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：55：08
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：56：38
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：56：48
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-01：59：52
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2897',
+      'notice_sn' => '20170703223353328',
+      'create_time' => '1499063633',
+      'pay_time' => '1499063641',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004230292064198',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-02：02：39
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2703',
+      'notice_sn' => '20170703013751911',
+      'create_time' => '1498988271',
+      'pay_time' => '1498988280',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234666',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004590211442064',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-02：03：21
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2704',
+      'notice_sn' => '20170703013906186',
+      'create_time' => '1498988346',
+      'pay_time' => '1498988354',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234666',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004590211462323',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-02：04：33
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-02：04：40
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-02：12：13
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-02：13：52
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2748',
+      'notice_sn' => '20170703164936580',
+      'create_time' => '1499042976',
+      'pay_time' => '1499042984',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61243522',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '100.00',
+      'outer_notice_sn' => '2017070321001004130299122169',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '2',
+      'recharge_name' => '金币10000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '10000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-02：16：43
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2749',
+      'notice_sn' => '20170703165231657',
+      'create_time' => '1499043151',
+      'pay_time' => '1499043161',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61243484',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004420203280030',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-02：20：31
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2751',
+      'notice_sn' => '20170703165604506',
+      'create_time' => '1499043364',
+      'pay_time' => '1499043372',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61243522',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '100.00',
+      'outer_notice_sn' => '2017070321001004130299116841',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '2',
+      'recharge_name' => '金币10000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '10000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-02：36：35
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2757',
+      'notice_sn' => '20170703171253994',
+      'create_time' => '1499044373',
+      'pay_time' => '1499044380',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61242884',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '100.00',
+      'outer_notice_sn' => '2017070321001004580245523761',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '2',
+      'recharge_name' => '金币10000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '10000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-02：36：36
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2927',
+      'notice_sn' => '20170703231059738',
+      'create_time' => '1499065859',
+      'pay_time' => '1499065866',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004230292061143',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-03：19：22
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2762',
+      'notice_sn' => '20170703175509984',
+      'create_time' => '1499046909',
+      'pay_time' => '1499046921',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61242923',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004210290999023',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-03：22：17
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2933',
+      'notice_sn' => '20170703235532135',
+      'create_time' => '1499068532',
+      'pay_time' => '1499068664',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004230292119639',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-03：24：32
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2934',
+      'notice_sn' => '20170704000003526',
+      'create_time' => '1499068803',
+      'pay_time' => '1499068809',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070421001004230292095408',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-03：29：48
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2764',
+      'notice_sn' => '20170703180457204',
+      'create_time' => '1499047497',
+      'pay_time' => '1499047505',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234904',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004610287226244',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-03：31：55
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; oppo r9m build/lmy47i)',
+  4 => 'ctl=user_center,act=profit:java.io.EOFException',
+)
+
+执行日期：2017-07-04-03：43：51
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; scl-al00 build/honorscl-al00)',
+  4 => 'ctl=user,act=userinfo:java.io.EOFException',
+)
+
+执行日期：2017-07-04-04：16：02
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-a7100 build/mmb29m)',
+  4 => 'ctl=index,act=focus_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-04：23：32
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; m2 build/lmy47d)',
+  4 => 'ctl=index,act=new_video:java.io.EOFException',
+)
+
+执行日期：2017-07-04-04：34：33
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; hm note 1s miui/v8.2.1.0.khkcndl)',
+  4 => 'ctl=app,act=init:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-04：46：55
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2794',
+      'notice_sn' => '20170703192136631',
+      'create_time' => '1499052096',
+      'pay_time' => '1499052107',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61242715',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '100.00',
+      'outer_notice_sn' => '2017070321001004000240323176',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '2',
+      'recharge_name' => '金币10000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '10000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-05：37：01
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-05：37：10
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-05：39：45
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; mi note pro miui/7.6.29)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-05：42：01
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo v3max build/lmy47v)',
+  4 => 'ctl=app,act=init:java.io.EOFException',
+)
+
+执行日期：2017-07-04-05：44：25
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo v3max build/lmy47v)',
+  4 => 'ctl=video,act=get_video2:java.lang.NullPointerException: Attempt to invoke virtual method \'java.lang.String com.fanwe.live.model.App_get_videoActModel.getGroup_id()\' on a null object reference',
+)
+
+执行日期：2017-07-04-05：44：35
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo v3max build/lmy47v)',
+  4 => 'ctl=video,act=get_video2:java.lang.NullPointerException: Attempt to invoke virtual method \'java.lang.String com.fanwe.live.model.App_get_videoActModel.getGroup_id()\' on a null object reference',
+)
+
+执行日期：2017-07-04-05：44：38
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo v3max build/lmy47v)',
+  4 => 'ctl=video,act=get_video2:java.lang.NullPointerException: Attempt to invoke virtual method \'java.lang.String com.fanwe.live.model.App_get_videoActModel.getGroup_id()\' on a null object reference',
+)
+
+执行日期：2017-07-04-05：44：41
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo v3max build/lmy47v)',
+  4 => 'ctl=video,act=get_video2:java.lang.NullPointerException: Attempt to invoke virtual method \'java.lang.String com.fanwe.live.model.App_get_videoActModel.getGroup_id()\' on a null object reference',
+)
+
+执行日期：2017-07-04-05：45：12
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; 2014812 miui/v8.2.5.0.lhjcndl)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-06：01：42
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; hm 2a miui/v8.2.1.0.khlcndl)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-06：01：42
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; hm 2a miui/v8.2.1.0.khlcndl)',
+  4 => 'ctl=user,act=userinfo:java.io.EOFException',
+)
+
+执行日期：2017-07-04-06：01：42
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; hm 2a miui/v8.2.1.0.khlcndl)',
+  4 => 'ctl=index,act=focus_video:java.io.EOFException',
+)
+
+执行日期：2017-07-04-06：07：07
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; oppo r7s build/ktu84p)',
+  4 => 'ctl=video,act=get_video2:java.io.EOFException',
+)
+
+执行日期：2017-07-04-06：11：51
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; knt-ul10 build/huaweiknt-ul10)',
+  4 => 'ctl=index,act=index:javax.net.ssl.SSLException: Read error: ssl=0xc3ac3600: I/O error during system call, Connection reset by peer',
+)
+
+执行日期：2017-07-04-06：32：25
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; redmi note 4 miui/v8.5.2.0.mbfcned)',
+  4 => 'ctl=user,act=state_change:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-06：44：50
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; m2 note build/lmy47d)',
+  4 => 'ctl=index,act=focus_video:javax.net.ssl.SSLException: Read error: ssl=0xde06c600: I/O error during system call, Connection reset by peer',
+)
+
+执行日期：2017-07-04-06：49：45
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2864',
+      'notice_sn' => '20170703212507740',
+      'create_time' => '1499059507',
+      'pay_time' => '1499059514',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61242631',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '30.00',
+      'outer_notice_sn' => '2017070321001004670234592378',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '4',
+      'recharge_name' => '金币3000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '3000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-06：56：51
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2858',
+      'notice_sn' => '20170703211533188',
+      'create_time' => '1499058933',
+      'pay_time' => '1499059945',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61240717',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '50.00',
+      'outer_notice_sn' => '2017070321001004680209502658',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '3',
+      'recharge_name' => '金币5000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '5000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-07：13：23
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; chm-cl00 build/chm-cl00)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-07：13：52
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2869',
+      'notice_sn' => '20170703214912189',
+      'create_time' => '1499060952',
+      'pay_time' => '1499060965',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235590',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '30.00',
+      'outer_notice_sn' => '2017070321001004540231545834',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '4',
+      'recharge_name' => '金币3000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '3000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-07：17：42
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2871',
+      'notice_sn' => '20170703215322497',
+      'create_time' => '1499061202',
+      'pay_time' => '1499061209',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61236135',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '6.00',
+      'outer_notice_sn' => '2017070321001004610287647606',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '8',
+      'recharge_name' => '金币600',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '600',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-07：25：07
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2875',
+      'notice_sn' => '20170703215851649',
+      'create_time' => '1499061531',
+      'pay_time' => '1499061540',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004230292025428',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-07：27：20
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; vivo x6plus l build/lmy47i)',
+  4 => 'ctl=video,act=monitor:java.io.EOFException',
+)
+
+执行日期：2017-07-04-08：09：12
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2914',
+      'notice_sn' => '20170703224539912',
+      'create_time' => '1499064339',
+      'pay_time' => '1499064347',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61234666',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '100.00',
+      'outer_notice_sn' => '2017070321001004590213235170',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '2',
+      'recharge_name' => '金币10000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '10000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-08：34：24
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-08：35：06
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-08：35：23
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; oppo a59m build/lmy47i)',
+  4 => 'ctl=video,act=monitor:java.io.EOFException',
+)
+
+执行日期：2017-07-04-08：35：32
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; oppo r7s build/ktu84p)',
+  4 => 'ctl=user,act=state_change:java.io.EOFException',
+)
+
+执行日期：2017-07-04-08：35：52
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2927',
+      'notice_sn' => '20170703231059738',
+      'create_time' => '1499065859',
+      'pay_time' => '1499065866',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004230292061143',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-08：41：49
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2931',
+      'notice_sn' => '20170703231713228',
+      'create_time' => '1499066233',
+      'pay_time' => '1499066240',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61235549',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '21.00',
+      'outer_notice_sn' => '2017070321001004230292109582',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-03',
+      'recharge_id' => '15',
+      'recharge_name' => '金币2100',
+      'product_id' => '10004',
+      'iap_receipt' => NULL,
+      'diamonds' => '2100',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-08：44：55
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-08：45：00
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-08：50：56
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-08：55：18
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; 2014813 miui/v8.2.1.0.lhjcndl)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-08：56：19
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-08：56：39
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：01：12
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：08：32
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：13：38
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-a7100 build/mmb29m)',
+  4 => 'ctl=index,act=index:javax.net.ssl.SSLException: Read error: ssl=0xb7faede0: I/O error during system call, Connection reset by peer',
+)
+
+执行日期：2017-07-04-09：14：00
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：14：07
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：18：30
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：19：07
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9s build/mmb29m)',
+  4 => 'ctl=family_user,act=user_list:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-09：23：37
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：24：23
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; vivo v3m a build/lmy47i)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-09：27：31
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2936',
+      'notice_sn' => '20170704000129302',
+      'create_time' => '1499068889',
+      'pay_time' => '1499068896',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61239788',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '100.00',
+      'outer_notice_sn' => '2017070421001004930237256911',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '2',
+      'recharge_name' => '金币10000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '10000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-09：28：09
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; vivo v3m a build/lmy47i)',
+  4 => 'ctl=index,act=focus_video:java.io.EOFException',
+)
+
+执行日期：2017-07-04-09：28：38
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：33：16
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; oppo a59m build/lmy47i)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-09：35：08
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：40：39
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：40：56
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-09：42：32
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; mp1512 build/mra58k)',
+  4 => 'ctl=app,act=aliyun_sts:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-09：51：54
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; oppo a59m build/lmy47i)',
+  4 => 'ctl=video,act=monitor:javax.net.ssl.SSLException: Read error: ssl=0xc0854200: I/O error during system call, Connection reset by peer',
+)
+
+执行日期：2017-07-04-09：52：57
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9s build/mmb29m)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-09：57：20
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo x9 build/mmb29m)',
+  4 => 'ctl=family_user,act=user_list:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-10：04：44
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; mha-al00 build/huaweimha-al00)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=4)',
+)
+
+执行日期：2017-07-04-10：14：47
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-10：16：31
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-10：16：37
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-10：18：52
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-10：28：11
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; a51 build/lmy47v)',
+  4 => 'ctl=index,act=focus_video:java.net.ConnectException: failed to connect to www.pidantv.com/2001:470:18:eea::2 (port 443) after 15000ms: isConnected failed: ENETUNREACH (Network is unreachable)',
+)
+
+执行日期：2017-07-04-10：28：12
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; a51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.net.ConnectException: failed to connect to www.pidantv.com/2001:470:18:eea::2 (port 443) after 15000ms: isConnected failed: ENETUNREACH (Network is unreachable)',
+)
+
+执行日期：2017-07-04-10：29：46
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; oppo a59m build/lmy47i)',
+  4 => 'ctl=video,act=monitor:java.io.EOFException',
+)
+
+执行日期：2017-07-04-10：33：51
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; cam-tl00 build/honorcam-tl00)',
+  4 => 'ctl=app,act=prop:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-10：38：30
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; m353 build/ktu84p)',
+  4 => 'ctl=index,act=new_video:java.io.EOFException',
+)
+
+执行日期：2017-07-04-10：51：46
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-10：51：55
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-10：56：47
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; vivo xplay3s build/kvt49l)',
+  4 => 'ctl=index,act=index:java.net.UnknownHostException: Unable to resolve host "www.pidantv.com": No address associated with hostname',
+)
+
+执行日期：2017-07-04-10：56：48
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-10：57：19
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-10：58：38
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-10：59：14
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=new_video:javax.net.ssl.SSLHandshakeException: Handshake failed',
+)
+
+执行日期：2017-07-04-10：59：14
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=focus_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=7)',
+)
+
+执行日期：2017-07-04-10：59：16
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=index:javax.net.ssl.SSLHandshakeException: Handshake failed',
+)
+
+执行日期：2017-07-04-10：59：56
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-11：00：08
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-11：01：59
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; vivo xplay3s build/kvt49l)',
+  4 => 'ctl=user,act=state_change:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7bd61c80: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:741 0x6f9d3d5c:0x00000000)',
+)
+
+执行日期：2017-07-04-11：02：00
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; vivo xplay3s build/kvt49l)',
+  4 => 'ctl=index,act=new_video:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7c8c0970: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:741 0x6f9d3d5c:0x00000000)',
+)
+
+执行日期：2017-07-04-11：04：16
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-11：04：49
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-11：08：34
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-11：11：51
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=3)',
+)
+
+执行日期：2017-07-04-11：12：12
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-11：12：31
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-11：15：46
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-11：16：17
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-11：19：47
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-11：20：33
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-11：22：50
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo v3max a build/lmy47v)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-11：31：29
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=index,act=index:java.net.NoRouteToHostException: No route to host',
+)
+
+执行日期：2017-07-04-11：32：28
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0.2; m821 build/lrx22g)',
+  4 => 'ctl=login,act=do_update:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-11：32：31
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0.2; m821 build/lrx22g)',
+  4 => 'ctl=login,act=do_update:java.lang.NullPointerException: Attempt to invoke virtual method \'void android.support.v4.app.FragmentActivity.finish()\' on a null object reference',
+)
+
+执行日期：2017-07-04-11：43：39
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; 8692-a00 build/lmy47v)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-11：50：06
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; coolpad 8722v build/lmy47d)',
+  4 => 'ctl=video,act=monitor:java.io.EOFException',
+)
+
+执行日期：2017-07-04-11：51：15
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; r7c build/ktu84p)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-11：51：15
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; r7c build/ktu84p)',
+  4 => 'ctl=index,act=focus_video:java.io.EOFException',
+)
+
+执行日期：2017-07-04-11：53：12
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9s build/mmb29m)',
+  4 => 'ctl=user,act=state_change:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-11：53：51
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; coolpad 8722v build/lmy47d)',
+  4 => 'ctl=app,act=prop:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-12：16：19
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5s miui/v8.0.10.0.magcndh)',
+  4 => 'ctl=user_center,act=profit:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-12：16：42
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; frd-al00 build/huaweifrd-al00)',
+  4 => 'ctl=user,act=search:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-12：17：40
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; coolpad 8722v build/lmy47d)',
+  4 => 'ctl=video,act=get_video2:java.io.EOFException',
+)
+
+执行日期：2017-07-04-12：18：10
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-12：19：06
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9s plus build/mmb29m)',
+  4 => 'ctl=user,act=search:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=4)',
+)
+
+执行日期：2017-07-04-12：30：17
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; vivo x5l build/kot49h)',
+  4 => 'ctl=video,act=cont:java.io.EOFException',
+)
+
+执行日期：2017-07-04-12：34：56
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; sm-j3110 build/lmy47x)',
+  4 => 'ctl=music,act=user_music:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-12：35：07
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; sm-j3110 build/lmy47x)',
+  4 => 'ctl=music,act=search:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-12：37：05
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; vivo x6plus d build/lmy47i)',
+  4 => 'ctl=user,act=state_change:java.io.EOFException',
+)
+
+执行日期：2017-07-04-12：37：20
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; sm-j3110 build/lmy47x)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-12：37：20
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; sm-j3110 build/lmy47x)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-12：41：16
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; sm-j3110 build/lmy47x)',
+  4 => 'ctl=video,act=cont:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-12：46：49
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; lenovo x2-to build/kot49h)',
+  4 => 'ctl=video,act=get_video2:java.io.EOFException',
+)
+
+执行日期：2017-07-04-13：07：08
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5s miui/v8.0.10.0.magcndh)',
+  4 => 'ctl=index,act=focus_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=6)',
+)
+
+执行日期：2017-07-04-13：07：08
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5s miui/v8.0.10.0.magcndh)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=4)',
+)
+
+执行日期：2017-07-04-13：19：39
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo y55a build/mmb29m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-13：22：52
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-13：28：22
+array (
+  0 => 'android',
+  1 => '201706242',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo y55a build/mmb29m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-13：34：54
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0; sm-n9009 build/lrx21v)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-13：46：24
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; boway l3 build/mra58k)',
+  4 => 'ctl=user,act=state_change:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-13：46：35
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; boway l3 build/mra58k)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-13：46：36
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; boway l3 build/mra58k)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-13：46：45
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; boway l3 build/mra58k)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-13：47：36
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; vivo xplay3s build/kvt49l)',
+  4 => 'ctl=user,act=userinfo:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7b9ecff0: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:741 0x6f9d3d5c:0x00000000)',
+)
+
+执行日期：2017-07-04-13：47：36
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; vivo xplay3s build/kvt49l)',
+  4 => 'ctl=index,act=focus_video:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7b091690: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:741 0x6f9d3d5c:0x00000000)',
+)
+
+执行日期：2017-07-04-13：47：38
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.2; vivo xplay3s build/kvt49l)',
+  4 => 'ctl=user,act=userinfo:javax.net.ssl.SSLHandshakeException: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7b9ecff0: Failure in SSL library, usually a protocol error
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure (external/openssl/ssl/s23_clnt.c:741 0x6f9d3d5c:0x00000000)',
+)
+
+执行日期：2017-07-04-13：57：58
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=user,act=state_change:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-13：58：04
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=user,act=state_change:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-13：58：30
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=video,act=get_video2:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-14：07：05
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-a5100 build/mmb29m)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=4)',
+)
+
+执行日期：2017-07-04-14：07：11
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-14：08：31
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.io.EOFException',
+)
+
+执行日期：2017-07-04-14：08：58
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-g9250 build/mmb29k)',
+  4 => 'ctl=index,act=focus_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-07-04-14：09：38
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=user_center,act=profit:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=7)',
+)
+
+执行日期：2017-07-04-14：13：23
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0; vivo x5pro l build/lrx21m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-14：13：23
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0; vivo x5pro l build/lrx21m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: SSL handshake timed out',
+)
+
+执行日期：2017-07-04-14：13：53
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0; vivo x5pro l build/lrx21m)',
+  4 => 'ctl=video,act=get_video2:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-14：14：19
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.0; vivo x5pro l build/lrx21m)',
+  4 => 'ctl=user,act=state_change:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-07-04-14：15：16
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-14：16：34
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; vie-al10 build/huaweivie-al10)',
+  4 => 'ctl=video,act=get_video2:javax.net.ssl.SSLException: Read error: ssl=0xc0529cc0: I/O error during system call, Connection reset by peer',
+)
+
+执行日期：2017-07-04-14：25：45
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo y55a build/mmb29m)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-14：28：13
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; vivo y55a build/mmb29m)',
+  4 => 'ctl=index,act=focus_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-14：31：07
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-g9250 build/mmb29k)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-14：31：18
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo a57 build/mmb29m)',
+  4 => 'ctl=video,act=monitor:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-07-04-14：33：23
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2946',
+      'notice_sn' => '20170704142801330',
+      'create_time' => '1499120881',
+      'pay_time' => '1499120889',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61243442',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '50.00',
+      'outer_notice_sn' => '2017070421001004180235722900',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '3',
+      'recharge_name' => '金币5000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '5000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-14：35：07
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/1.6.0 (linux; u; android 4.4.4; huawei g7-ul20 build/huaweig7-ul20)',
+  4 => 'ctl=user,act=userinfo:java.io.EOFException',
+)
+
+执行日期：2017-07-04-14：37：17
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-07-04-14：37：28
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2947',
+      'notice_sn' => '20170704143147233',
+      'create_time' => '1499121107',
+      'pay_time' => '1499121114',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61243442',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '50.00',
+      'outer_notice_sn' => '2017070421001004180235730098',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '3',
+      'recharge_name' => '金币5000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '5000',
+      'type' => '0',
+    ),
+  ),
+)
+
+执行日期：2017-07-04-14：38：03
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9sk build/mmb29m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-14：38：03
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9sk build/mmb29m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-07-04-14：39：46
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9sk build/mmb29m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-14：40：12
+array (
+  0 => 'android',
+  1 => '201706243',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; oppo r9sk build/mmb29m)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-07-04-14：43：19
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/cart.php',
+  1 => 364,
+  2 => 'payment_paid',
+  3 => 
+  array (
+    'error' => '更新订单失败',
+    'payment_info' => 
+    array (
+      'id' => '2946',
+      'notice_sn' => '20170704142801330',
+      'create_time' => '1499120881',
+      'pay_time' => '1499120889',
+      'order_id' => '0',
+      'is_paid' => '1',
+      'user_id' => '61243442',
+      'payment_id' => '4',
+      'bank_id' => '',
+      'memo' => '',
+      'money' => '50.00',
+      'outer_notice_sn' => '2017070421001004180235722900',
+      'deal_id' => '0',
+      'deal_name' => '',
+      'is_has_send_success' => '0',
+      'paid_send' => '0',
+      'pay_date' => '2017-07-04',
+      'recharge_id' => '3',
+      'recharge_name' => '金币5000',
+      'product_id' => '',
+      'iap_receipt' => NULL,
+      'diamonds' => '5000',
+      'type' => '0',
+    ),
+  ),
+)
+

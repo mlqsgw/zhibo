@@ -1,0 +1,46 @@
+{// 引入标签库 }
+<tagLib name="html" />
+<include file="Public:header" />
+<php>
+
+	function get_banned_status($is_banned)
+	{
+	    if($is_banned)
+	    {
+	        return '禁播';
+	    }else{
+	        return '正常';
+	    }
+
+	}
+
+</php>
+<script>
+
+</script>
+<div class="main">
+<div class="main_title_list"><div class="list-line-ico"></div>{$main_title}</div>
+<div class="search_row">
+	<form name="search" action="__APP__" method="get">
+		名称：<input type="text" class="textbox" name="title" value="{:trim($_REQUEST['title'])}" /><input type="hidden" value="SmallVideo" name="m" /><input type="hidden" value="index" name="a" /><input type="submit" class="button" value="{%SEARCH}" />
+	</form>
+</div>
+<html:list
+	id="dataTable"
+	style="dataTable"
+	name="small_video"
+	checkbox="true"
+	action="true"
+	datasource="list"
+	show="id:{%ID}|50px,title:{%TITLE}:edit,is_banned|get_banned_status:{%IS_EFFECT},video_path:{%VIDEO_PATH},create_time:{%CREATE_TIME},updated:{%UPDATE_TIME},sort_init:{%SORT},support_count:{%LIKE_COUNT}"
+	actionlist="edit:{%EDIT}" />
+	<table class="dataTable">
+		<tbody>
+			<td colspan="9">
+				<input type="button" class="button button-add" value="{%ADD}" onclick="add();" />
+			</td>
+		</tbody>
+	</table>
+<div class="page">{$page}</div>
+</div>
+<include file="Public:footer" />

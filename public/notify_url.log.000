@@ -1,0 +1,255 @@
+执行日期：2017-06-17-11：40：01
+--微信登录回调调试开始--
+
+执行日期：2017-06-17-11：40：01
+-获取微信配置信息-
+
+执行日期：2017-06-17-11：40：01
+-wx_appid-
+
+执行日期：2017-06-17-11：40：01
+wx54ffd52134ed1542
+
+执行日期：2017-06-17-11：40：01
+-wx_secrit-
+
+执行日期：2017-06-17-11：40：01
+dbb82e1faa285dadc2cc268adb108572
+
+执行日期：2017-06-17-11：40：01
+-获取微信跳转jump_url-
+
+执行日期：2017-06-17-11：40：01
+http://www.pidantv.com/wap/index.php?ctl=login&act=wx_login
+
+执行日期：2017-06-17-11：42：11
+--微信登录回调调试开始--
+
+执行日期：2017-06-17-11：42：11
+-获取微信配置信息-
+
+执行日期：2017-06-17-11：42：11
+-wx_appid-
+
+执行日期：2017-06-17-11：42：11
+wx54ffd52134ed1542
+
+执行日期：2017-06-17-11：42：11
+-wx_secrit-
+
+执行日期：2017-06-17-11：42：11
+dbb82e1faa285dadc2cc268adb108572
+
+执行日期：2017-06-17-11：42：11
+-获取微信跳转jump_url-
+
+执行日期：2017-06-17-11：42：11
+http://www.pidantv.com/wap/index.php?ctl=login&act=wx_login
+
+执行日期：2017-06-17-11：44：49
+--微信登录回调调试开始--
+
+执行日期：2017-06-17-11：44：49
+-获取微信配置信息-
+
+执行日期：2017-06-17-11：44：49
+-wx_appid-
+
+执行日期：2017-06-17-11：44：49
+wx54ffd52134ed1542
+
+执行日期：2017-06-17-11：44：49
+-wx_secrit-
+
+执行日期：2017-06-17-11：44：49
+dbb82e1faa285dadc2cc268adb108572
+
+执行日期：2017-06-17-11：44：49
+-获取微信跳转jump_url-
+
+执行日期：2017-06-17-11：44：49
+http://www.pidantv.com/wap/index.php?ctl=login&act=wx_login
+
+执行日期：2017-06-17-11：44：49
+-微信scope_get_userinfo->wx_info-
+
+执行日期：2017-06-17-11：44：49
+array (
+  'openid' => 'o12l8w7dvaMPmCV_xI-IyJDMVVe0',
+  'nickname' => '忧天小鸡',
+  'sex' => 1,
+  'language' => 'zh_CN',
+  'city' => '',
+  'province' => '北京',
+  'country' => '中国',
+  'headimgurl' => 'http://wx.qlogo.cn/mmopen/00GYaClAoOrsSoXFusNaDdIBr4XK0x5iblsGuh8iblmQPyhBGLDoamVB2LhtWH5ibu3NcLXNWRAhRlgxic03WmZSGg/0',
+  'privilege' => 
+  array (
+  ),
+  'unionid' => 'ojjTbv0fN__9PiWAIu9E3G_pf_Ks',
+)
+
+执行日期：2017-06-17-11：44：49
+-微信登录信息wxxMakeUser-
+
+执行日期：2017-06-17-11：44：49
+array (
+  'first_login' => 0,
+  'new_level' => 0,
+  'status' => 1,
+  'error' => '微信登录成功',
+  'data' => '100455',
+  'user_id' => '100455',
+  'nick_name' => '忧天小鸡❤⚽?',
+  'is_agree' => 0,
+  'user_info' => 
+  array (
+    'user_id' => '100455',
+    'nick_name' => '忧天小鸡❤⚽?',
+    'mobile' => '',
+    'head_image' => 'http://liveimage.pidantv.com/public/attachment/201706/16/21/origin/1497589515100455.jpg',
+  ),
+)
+
+执行日期：2017-06-17-11：45：02
+--微信登录回调调试开始--
+
+执行日期：2017-06-17-11：45：02
+-获取微信配置信息-
+
+执行日期：2017-06-17-11：45：02
+-wx_appid-
+
+执行日期：2017-06-17-11：45：02
+wx54ffd52134ed1542
+
+执行日期：2017-06-17-11：45：02
+-wx_secrit-
+
+执行日期：2017-06-17-11：45：02
+dbb82e1faa285dadc2cc268adb108572
+
+执行日期：2017-06-17-11：45：02
+-获取微信跳转jump_url-
+
+执行日期：2017-06-17-11：45：02
+http://www.pidantv.com/wap/index.php?ctl=login&act=wx_login
+
+执行日期：2017-06-17-11：45：02
+-微信scope_get_userinfo->wx_info-
+
+执行日期：2017-06-17-11：45：02
+array (
+  'openid' => 'o12l8w7dvaMPmCV_xI-IyJDMVVe0',
+  'nickname' => '忧天小鸡',
+  'sex' => 1,
+  'language' => 'zh_CN',
+  'city' => '',
+  'province' => '北京',
+  'country' => '中国',
+  'headimgurl' => 'http://wx.qlogo.cn/mmopen/00GYaClAoOrsSoXFusNaDdIBr4XK0x5iblsGuh8iblmQPyhBGLDoamVB2LhtWH5ibu3NcLXNWRAhRlgxic03WmZSGg/0',
+  'privilege' => 
+  array (
+  ),
+  'unionid' => 'ojjTbv0fN__9PiWAIu9E3G_pf_Ks',
+)
+
+执行日期：2017-06-17-11：45：02
+-微信登录信息wxxMakeUser-
+
+执行日期：2017-06-17-11：45：02
+array (
+  'first_login' => 0,
+  'new_level' => 0,
+  'status' => 1,
+  'error' => '微信登录成功',
+  'data' => '100455',
+  'user_id' => '100455',
+  'nick_name' => '忧天小鸡❤⚽?',
+  'is_agree' => 0,
+  'user_info' => 
+  array (
+    'user_id' => '100455',
+    'nick_name' => '忧天小鸡❤⚽?',
+    'mobile' => '',
+    'head_image' => 'http://liveimage.pidantv.com/public/attachment/201706/16/21/origin/1497589515100455.jpg',
+  ),
+)
+
+执行日期：2017-06-17-11：46：28
+--微信登录回调调试开始--
+
+执行日期：2017-06-17-11：46：28
+-获取微信配置信息-
+
+执行日期：2017-06-17-11：46：28
+-wx_appid-
+
+执行日期：2017-06-17-11：46：28
+wx54ffd52134ed1542
+
+执行日期：2017-06-17-11：46：28
+-wx_secrit-
+
+执行日期：2017-06-17-11：46：28
+dbb82e1faa285dadc2cc268adb108572
+
+执行日期：2017-06-17-11：46：28
+-获取微信跳转jump_url-
+
+执行日期：2017-06-17-11：46：28
+http://www.pidantv.com/wap/index.php?ctl=login&act=wx_login
+
+执行日期：2017-06-17-11：46：28
+-微信scope_get_userinfo->wx_info-
+
+执行日期：2017-06-17-11：46：28
+array (
+  'openid' => 'o12l8w7dvaMPmCV_xI-IyJDMVVe0',
+  'nickname' => '忧天小鸡',
+  'sex' => 1,
+  'language' => 'zh_CN',
+  'city' => '',
+  'province' => '北京',
+  'country' => '中国',
+  'headimgurl' => 'http://wx.qlogo.cn/mmopen/00GYaClAoOrsSoXFusNaDdIBr4XK0x5iblsGuh8iblmQPyhBGLDoamVB2LhtWH5ibu3NcLXNWRAhRlgxic03WmZSGg/0',
+  'privilege' => 
+  array (
+  ),
+  'unionid' => 'ojjTbv0fN__9PiWAIu9E3G_pf_Ks',
+)
+
+执行日期：2017-06-17-11：46：28
+-微信登录信息wxxMakeUser-
+
+执行日期：2017-06-17-11：46：28
+array (
+  'first_login' => 0,
+  'new_level' => 0,
+  'status' => 1,
+  'error' => '微信登录成功',
+  'data' => '100455',
+  'user_id' => '100455',
+  'nick_name' => '忧天小鸡❤⚽?',
+  'is_agree' => 0,
+  'user_info' => 
+  array (
+    'user_id' => '100455',
+    'nick_name' => '忧天小鸡❤⚽?',
+    'mobile' => '',
+    'head_image' => 'http://liveimage.pidantv.com/public/attachment/201706/16/21/origin/1497589515100455.jpg',
+  ),
+)
+
+执行日期：2017-06-19-15：23：14
+100404
+
+执行日期：2017-06-19-15：23：15
+100404
+
+执行日期：2017-06-21-16：08：07
+SELECT j.id as family_id,j.logo as family_logo,j.name as family_name,j.user_id,u.nick_name,j.create_time,(SELECT COUNT(id) FROM fanwe_user c WHERE c.family_id=j.id) as user_count,IF ((select count(id) as is_apply from fanwe_family_join as jo where jo.user_id=61234803 and jo.family_id=j.id and jo.status=0 )>0,1,IF ((select count(id) as is_apply from fanwe_family_join as jo where jo.user_id=61234803 and jo.family_id=j.id and jo.status=1 )>0,2,0)) as is_apply FROM fanwe_family as j left join fanwe_user as u on j.user_id=u.id where j.status=1 limit 0,20
+
+执行日期：2017-06-21-16：09：59
+SELECT j.id as family_id,j.logo as family_logo,j.name as family_name,j.user_id,u.nick_name,j.create_time,(SELECT COUNT(id) FROM fanwe_user c WHERE c.family_id=j.id) as user_count,IF ((select count(id) as is_apply from fanwe_family_join as jo where jo.user_id=61234803 and jo.family_id=j.id and jo.status=0 )>0,1,IF ((select count(id) as is_apply from fanwe_family_join as jo where jo.user_id=61234803 and jo.family_id=j.id and jo.status=1 )>0,2,0)) as is_apply FROM fanwe_family as j left join fanwe_user as u on j.user_id=u.id where j.status=1 limit 0,20
+

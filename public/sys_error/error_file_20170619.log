@@ -1,0 +1,314 @@
+执行日期：2017-06-19-09：16：57
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-19-09：20：13
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-19-09：30：18
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-19-09：32：22
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-19-10：20：03
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; huawei vns-al00 build/huaweivns-al00)',
+  4 => 'ctl=user,act=userinfo:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-06-19-10：25：38
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; huawei vns-al00 build/huaweivns-al00)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-11：10：04
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-06-19-12：57：02
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 4lte miui/v8.1.3.0.mxdcndi)',
+  4 => 'ctl=index,act=index:java.net.UnknownHostException: Unable to resolve host "www.pidantv.com": No address associated with hostname',
+)
+
+执行日期：2017-06-19-15：17：52
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-15：21：04
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-15：23：35
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-15：23：35
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-15：33：50
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-06-19-15：38：17
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-15：45：44
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; letv x501 build/dbxcnop5902303111s)',
+  4 => 'ctl=video,act=monitor:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=39)',
+)
+
+执行日期：2017-06-19-15：48：48
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-15：50：09
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-15：54：10
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-16：00：13
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=new_video:javax.net.ssl.SSLHandshakeException: Handshake failed',
+)
+
+执行日期：2017-06-19-16：00：13
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:javax.net.ssl.SSLHandshakeException: Handshake failed',
+)
+
+执行日期：2017-06-19-16：04：05
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-16：04：46
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; letv x501 build/dbxcnop5902303111s)',
+  4 => 'ctl=video,act=monitor:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=8)',
+)
+
+执行日期：2017-06-19-16：05：49
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0; letv x501 build/dbxcnop5902303111s)',
+  4 => 'ctl=video,act=monitor:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=4)',
+)
+
+执行日期：2017-06-19-16：12：16
+array (
+  0 => 'android',
+  1 => '20170619',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=app,act=init:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-16：48：07
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=app,act=init:javax.net.ssl.SSLHandshakeException: Handshake failed',
+)
+
+执行日期：2017-06-19-16：48：10
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=new_video:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-06-19-16：58：07
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-17：15：26
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-g9250 build/mmb29k)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=3)',
+)
+
+执行日期：2017-06-19-17：53：58
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=new_video:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-18：58：55
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-g9250 build/mmb29k)',
+  4 => 'ctl=app,act=init:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-19：35：47
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=pay,act=pay:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-06-19-20：01：57
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; mi 5 miui/v8.1.6.0.maacndi)',
+  4 => 'ctl=index,act=index:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-19-23：24：07
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-g9250 build/mmb29k)',
+  4 => 'ctl=video,act=monitor:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=7)',
+)
+
+执行日期：2017-06-19-23：38：55
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-g9250 build/mmb29k)',
+  4 => 'ctl=app,act=init:java.net.SocketTimeoutException: timeout',
+)
+

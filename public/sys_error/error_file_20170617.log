@@ -1,0 +1,29 @@
+执行日期：2017-06-17-00：50：23
+array (
+  0 => 'android',
+  1 => '20170616',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; redmi 4a miui/v8.0.3.0.mcccndi)',
+  4 => 'ctl=index,act=index:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT@ hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=2)',
+)
+
+执行日期：2017-06-17-13：44：29
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-17-14：18：55
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; eva-tl00 build/huaweieva-tl00)',
+  4 => 'ctl=index,act=focus_video:java.net.SocketTimeoutException: timeout',
+)
+

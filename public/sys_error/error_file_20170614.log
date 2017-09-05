@@ -1,0 +1,18 @@
+执行日期：2017-06-14-19：44：23
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e; infopath.3)',
+  4 => 'ctl=app,act=init:com.alibaba.fastjson.JSONException',
+)
+
+执行日期：2017-06-14-19：44：33
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.124 safari/537.36',
+  4 => 'ctl=app,act=init:com.alibaba.fastjson.JSONException',
+)
+

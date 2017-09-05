@@ -1,0 +1,53 @@
+{// 引入标签库 }
+<tagLib name="html" />
+<include file="Public:header" />
+<load href='__TMPL__Common/js/showdate.js' />
+<div class="main">
+<div class="main_title_list"><div class="list-line-ico"></div>结算记录 &nbsp; &nbsp; &nbsp;<a href="{:u('Jsjl/payExport_four')}"><div class="list-line-ico"></div>导出Excel</a></div>
+<PHP>
+    function cyzbmx($id,$list){
+         return "---";
+    }
+</PHP>
+    <form action="__APP__" method="get">
+            
+        <ul class="toolbar1" style="margin-right: 40px;">
+             <li>
+                    <span style="margin-top: 10px;">
+                        <select name="type">
+                            <option value="0">选择搜索方式</option>
+                            <option value="1">家族长ID</option>
+                            <option value="2">家族长昵称</option>
+                            <option value="3" selected="selected">期数</option>
+                            <option value="4">期数+家族长昵称</option>
+                            <option value="5">期数+家族长ID</option>
+                        </select>
+                    </span>
+                
+             <span style="margin-top: 2px;">
+             期数:<input type="text" id="st" name="st" onclick="return Calendar('st');" value="{$where_search}" class="text" style="width:85px;height: 25px;"/>&nbsp;&nbsp;&nbsp;
+                    <input type="text" name="search_name" value="{$search_name}" style="height:23px;" placeholder="家族长ID/家族长昵称">&nbsp;&nbsp;&nbsp;
+             
+             <input type="hidden"  value="Jsjl" name ="m" />
+             <input type="hidden"  value="index" name ="a" />
+             <input type="submit" class="button" value="搜索" />
+             </span>
+             </li>
+        </ul>
+    </form>
+</div>
+    
+<html:list
+    id="dataTable"
+    style="dataTable"
+    name="list"
+    checkbox="true"
+    action="true"
+    datasource="list"
+    show="id:{%ID},user_id:家族长id,nick_name:家族长昵称,name:家族名称,total_ticket:可结算魔力值,total_ticket_no:未结算魔力值,earnings:收益/元,coefficient:提成系数,expect_date:期,create_time|to_date:创建时间"
+    actionlist="id|cyzbmx=$list"/>
+    
+<div class="blank5"></div>
+<div class="page">{$page}</div>
+</div>
+<include file="Public:footer" />

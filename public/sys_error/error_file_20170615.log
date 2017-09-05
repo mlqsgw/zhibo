@@ -1,0 +1,666 @@
+执行日期：2017-06-15-14：10：48
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/user.php',
+  1 => 1864,
+  2 => 'accountimport',
+  3 => 
+  array (
+    'ActionStatus' => 'FAIL',
+    'ErrorCode' => 70346,
+    'ErrorInfo' => 'wOpenID_len illegalDoOpenCheck iret:-1,sdkappid:1253821662,acctype:1,checktype:100,appid3rd:',
+  ),
+)
+
+执行日期：2017-06-15-14：14：21
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/user.php',
+  1 => 1864,
+  2 => 'accountimport',
+  3 => 
+  array (
+    'ActionStatus' => 'FAIL',
+    'ErrorCode' => 70346,
+    'ErrorInfo' => 'wOpenID_len illegalDoOpenCheck iret:-1,sdkappid:1253821662,acctype:1,checktype:100,appid3rd:',
+  ),
+)
+
+执行日期：2017-06-15-14：28：00
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/user.php',
+  1 => 1864,
+  2 => 'accountimport',
+  3 => 
+  array (
+    'ActionStatus' => 'FAIL',
+    'ErrorCode' => 70346,
+    'ErrorInfo' => 'wOpenID_len illegalDoOpenCheck iret:-1,sdkappid:1253821662,acctype:1,checktype:100,appid3rd:',
+  ),
+)
+
+执行日期：2017-06-15-14：32：09
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/user.php',
+  1 => 1864,
+  2 => 'accountimport',
+  3 => 
+  array (
+    'ActionStatus' => 'FAIL',
+    'ErrorCode' => 70346,
+    'ErrorInfo' => 'wOpenID_len illegalDoOpenCheck iret:-1,sdkappid:1253821662,acctype:1,checktype:100,appid3rd:',
+  ),
+)
+
+执行日期：2017-06-15-14：39：39
+array (
+  0 => '/home/wwwroot/fanwe/system/libs/user.php',
+  1 => 1864,
+  2 => 'accountimport',
+  3 => 
+  array (
+    'ActionStatus' => 'FAIL',
+    'ErrorCode' => 70346,
+    'ErrorInfo' => 'wOpenID_len illegalDoOpenCheck iret:-1,sdkappid:1253821662,acctype:1,checktype:100,appid3rd:',
+  ),
+)
+
+执行日期：2017-06-15-14：52：35
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-14：52：38
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-14：58：46
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-14：58：48
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-16：25：57
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-16：32：04
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-16：33：42
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-16：34：54
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-16：58：44
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：00：39
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：01：56
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：02：43
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：09：06
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：11：41
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：20：47
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：25：13
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：28：25
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-17：28：48
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：29：02
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：38：55
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：41：22
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：46：06
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：46：27
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-17：50：58
+array (
+  0 => 'android',
+  1 => '2016120701',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; eva-tl00 build/huaweieva-tl00)',
+  4 => 'ctl=app,act=init:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-15-18：09：32
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-18：09：40
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-18：10：02
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=music,act=downurl:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-06-15-18：10：13
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-18：24：45
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=video,act=monitor:javax.net.ssl.SSLException: Read error: ssl=0xb7df81d8: I/O error during system call, Connection reset by peer',
+)
+
+执行日期：2017-06-15-18：32：15
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-18：34：25
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-18：36：21
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 7.0; pra-al00x build/honorpra-al00x)',
+  4 => 'ctl=user,act=state_change:java.io.IOException: unexpected end of stream on Connection{www.pidantv.com:443, proxy=DIRECT hostAddress=120.55.16.24 cipherSuite=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 protocol=http/1.1} (recycle count=1)',
+)
+
+执行日期：2017-06-15-18：48：41
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-18：50：40
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=rank,act=contribution:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-06-15-18：50：56
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=rank,act=consumption:java.io.EOFException',
+)
+
+执行日期：2017-06-15-18：52：21
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=user,act=user_home:java.lang.IllegalStateException: Activity has been destroyed',
+)
+
+执行日期：2017-06-15-18：54：11
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-18：57：06
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; redmi 4a miui/v8.0.3.0.mcccndi)',
+  4 => 'ctl=index,act=new_video:com.alibaba.fastjson.JSONException: syntax error, expect {, actual error, pos 0',
+)
+
+执行日期：2017-06-15-18：57：10
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=new_video:com.alibaba.fastjson.JSONException: syntax error, expect {, actual error, pos 0',
+)
+
+执行日期：2017-06-15-18：57：13
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1.1; vivo y51 build/lmy47v)',
+  4 => 'ctl=index,act=index:com.alibaba.fastjson.JSONException: syntax error, expect {, actual error, pos 0',
+)
+
+执行日期：2017-06-15-19：23：37
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-19：25：53
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; m1 metal build/lmy47i)',
+  4 => 'ctl=video,act=add_video:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-06-15-19：33：21
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 5.1; oppo r9tm build/lmy47i)',
+  4 => 'ctl=login,act=sina_login:java.net.SocketTimeoutException: Read timed out',
+)
+
+执行日期：2017-06-15-19：38：33
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-19：38：38
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-19：44：37
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/music.action.php',
+  1 => 461,
+  2 => 'musicModule::downurl',
+  3 => 
+  array (
+    'error_code' => 22000,
+  ),
+)
+
+执行日期：2017-06-15-19：48：27
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-19：49：30
+array (
+  0 => 'android',
+  1 => '2017051501',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-c5010 build/mmb29m)',
+  4 => 'ctl=user,act=userinfo:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-15-19：53：17
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-20：07：51
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-21：25：22
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-21：25：33
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-21：25：55
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-21：25：57
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-21：26：00
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-21：26：05
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+
+执行日期：2017-06-15-23：41：58
+array (
+  0 => '/home/wwwroot/fanwe/mapi/lib/pay.action.php',
+  1 => 135,
+  2 => 'payModule::recharge',
+  3 => 
+  array (
+    'error' => '无任何支付方式',
+  ),
+)
+

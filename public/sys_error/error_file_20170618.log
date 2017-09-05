@@ -1,0 +1,27 @@
+执行日期：2017-06-18-08：45：56
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; sm-g9250 build/mmb29k)',
+  4 => 'ctl=video,act=cont:java.net.SocketTimeoutException: timeout',
+)
+
+执行日期：2017-06-18-14：15：37
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; redmi 4a miui/v8.0.3.0.mcccndi)',
+  4 => 'ctl=video,act=like:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+
+执行日期：2017-06-18-16：34：40
+array (
+  0 => 'android',
+  1 => '201706241',
+  2 => '',
+  3 => 'dalvik/2.1.0 (linux; u; android 6.0.1; redmi 4a miui/v8.0.3.0.mcccndi)',
+  4 => 'ctl=user,act=agree:java.net.SocketTimeoutException: failed to connect to www.pidantv.com/120.55.16.24 (port 443) after 15000ms',
+)
+

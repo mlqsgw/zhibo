@@ -1,0 +1,43 @@
+{// 引入标签库 }
+<tagLib name="html" />
+<include file="Public:header" />
+<script>
+
+</script>
+<div class="main">
+<div class="main_title_list"><div class="list-line-ico"></div>小视频评论管理</div>
+<div class="search_row">
+	<form name="search" action="__APP__" method="get">
+		评论内容：<input type="text" class="textbox" name="title" value="{:trim($_REQUEST['title'])}" />
+		小视频：<select style="width: 100px;margin:0" name="small_video_id">
+            	<option value="-1" >全部</option>
+				<foreach name="small_video_list" item="small_video_item">
+					<option value="{$small_video_item.id}" <if condition="$_REQUEST['small_video_id'] eq $small_video_item['id']">selected="selected"</if>>{$small_video_item.title}</option>
+				</foreach>
+		    </select>
+		
+		<input type="hidden" value="SmallVideoComment" name="m" />
+		<input type="hidden" value="index" name="a" />
+		<input type="submit" class="button" value="{%SEARCH}" />
+	
+	</form>
+</div>
+<html:list
+	id="dataTable"
+	style="dataTable"
+	name="small_video"
+	checkbox="true"
+	
+	datasource="list"
+	show="id:{%ID}|50px,title:{%TITLE},nick_name:用户昵称,small_video_title:小视频,create_time|to_date_new:{%create_time}"
+	 />
+	<table class="dataTable">
+		<tbody>
+			<td colspan="9">
+				<input type="button" class="button button-del" value="{%DEL}" onclick="foreverdel();" />
+			</td>
+		</tbody>
+	</table>
+<div class="page">{$page}</div>
+</div>
+<include file="Public:footer" />

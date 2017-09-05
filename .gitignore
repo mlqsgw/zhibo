@@ -1,0 +1,12 @@
+.*
+!.gitignore
+!.htaccess
+.idea/*
+public/runtime/*
+public/db_config.php
+public/directory_init.php
+/public/attachment
+/public/runtime
+/upload/Config.php
+/public/sys_config.php
+/public/tim

@@ -1,0 +1,140 @@
+{// 引入标签库 }
+<tagLib name="html" />
+<include file="Public:header" />
+<load href='__TMPL__Common/css/jquery.fileupload.css' />
+<load href='__TMPL__Common/js/jquery_upload/jquery.ui.widget.js' />
+<load href='__TMPL__Common/js/jquery_upload/jquery.iframe-transport.js' />
+<load href='__TMPL__Common/js/jquery_upload/jquery.fileupload.js' />
+<div class="main">
+<div class="main_title">{$vo.title}{%EDIT} <a href="{:u("SmallVideo/index")}" class="back_list">{%BACK_LIST}</a></div>
+<div class="blank5"></div>
+<form name="edit" action="{:u("SmallVideo/update")}" method="post" enctype="multipart/form-data" onsubmit="">
+<table class="form" cellpadding=0 cellspacing=0>
+	<tr>
+		<td colspan=2 class="topTd"></td>
+	</tr>
+	<tr>
+		<td class="item_title">{%TITLE}:</td>
+		<td class="item_input"><input type="text" class="textbox require" name="title" value="{$vo.title}" /></td>
+	</tr>
+	<tr>
+		<td class="item_title">{%SORT_INIT}:</td>
+		<td class="item_input"><input type="text" class="textbox" name="sort_init" value="0" value="{$vo.sort_init}" /></td>
+	</tr>
+	<tr>
+		<td class="item_title">{%IS_EFFECT}:</td>
+		<td class="item_input">
+			<lable>禁播<input type="radio" name="is_banned" value="1" {:$vo['is_banned']==1?'checked':''} /></lable>
+			<lable>正常<input type="radio" name="is_banned" value="0" {:$vo['is_banned']==0?'checked':''} /></lable>
+		</td>
+	</tr>
+	<tr>
+		<td class="item_title">封面图片:</td>
+		<td class="item_input">
+			<input id="imgupload" class="ke-icon-upload_image" type="file" name="img" multiple style="float: left;font-size: 0px;" />
+			<img src="{$vo.head_image}" id="preview" width="35" height="35" style="float:left; border:#ccc solid 1px;margin-left: 10px;">
+			<input id="head_image" type="hidden" name="head_image" value="{$vo.head_image}"  />
+			<div id="progress" class="progress">
+				<div class="progress-bar progress-bar-success"></div>
+			</div>
+			<!--<span class='tip_span'>&nbsp;[图标规格为：35px*35px]</span>-->
+		</td>
+	</tr>
+	<tr>
+		<td class="item_title">视频文件:</td>
+		<td class="item_input">
+			<span class="btn btn-success fileinput-button" style="background:#0a8ddf;float:left;">
+            <i class="glyphicon glyphicon-plus"></i>
+            <span>上传视频</span>
+            <input id="fileupload" type="file" name="file" multiple style="float: left;font-size: 0px;"/>
+            </span>
+			<div style="float:left;margin-left: 5px;" id="file_box" ><video src='{$vo.video_path}' width='200' controls></video></div>
+			<input id="video_path" type="hidden" name="video_path" value="{$vo.video_path}" />
+			<div id="video_progress" class="progress">
+				<div class="progress-bar progress-bar-success"></div>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan=2 class="bottomTd"></td>
+	</tr>
+	<tr>
+		<td class="item_title"></td>
+		<td class="item_input">
+			<!--隐藏元素-->
+			<input type="hidden" name="user_id" value="{:conf("SMALL_VIDEO_USER_ID")}" />
+			<input type="hidden" name="id" value="{$vo.id}" />
+			<input type="hidden" name="duration" value="{$vo.duration}" id='duration' />
+			<input type="hidden" name="{:conf("VAR_MODULE")}" value="SmallVideo" />
+			<input type="hidden" name="{:conf("VAR_ACTION")}" value="update" />
+			<!--隐藏元素-->
+			<input type="submit" class="button" value="{%EDIT}" />
+			<input type="reset" class="button" value="{%RESET}" />
+		</td>
+	</tr>
+	<tr>
+		<td colspan=2 class="bottomTd"></td>
+	</tr>
+</table>	 
+</form>
+    <script>
+        $(function(){
+			$('#imgupload').fileupload({
+				url: '/upload/index.php?upload_type=1',
+				dataType: 'json',
+				done: function (e, data) {
+					var result=data.result;
+					if(result.error==0)
+					{
+						$('#preview').attr('src',result.host+result.url);
+						$('#head_image').val(result.host+result.url);
+					}else{
+						alert('上传失败');
+					}
+				},
+				progressall: function (e, data) {
+					var progress = parseInt(data.loaded / data.total * 100, 10);
+					if(progress==100)
+					{
+						progress=0;
+					}
+					$('#progress .progress-bar').css(
+							'width',
+							progress + '%'
+					);
+				}
+			});
+			$('#fileupload').fileupload({
+				url: '/upload/index.php?upload_type=0',
+				dataType: 'json',
+				done: function (e, data) {
+					var result=data.result;
+					if(result.error==0)
+					{
+						var video_html=$("<video src='"+result.host+result.url+"' width='200'  autoplay='true' controls></video>");
+						$('#file_box').html(video_html);
+						$('#video_path').val(result.host+result.url);
+						setTimeout(function(){
+							var duration=video_html[0].duration;
+							$('#duration').val(duration);
+						},1000);
+					}else{
+						alert('上传失败');
+					}
+				},
+				progressall: function (e, data) {
+					var progress = parseInt(data.loaded / data.total * 100, 10);
+					if(progress==100)
+					{
+						progress=0;
+					}
+					$('#video_progress .progress-bar').css(
+							'width',
+							progress + '%'
+					);
+				}
+			});
+        });
+    </script>
+</div>
+<include file="Public:footer" />
